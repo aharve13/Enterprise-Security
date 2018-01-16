@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.mule.tooling.ui.extension.security-crc32.3.9.0_1.7.2.201712120929.jar" id="org.mule.tooling.ui.extension.security-crc32.3.9.0" version="1.7.2.201712120929"/>
+   <feature url="features/org.mule.tooling.ui.extension.security-encryption.3.9.0_1.7.2.201712120926.jar" id="org.mule.tooling.ui.extension.security-encryption.3.9.0" version="1.7.2.201712120926"/>
+   <feature url="features/org.mule.tooling.ui.extension.security-filters.3.9.0_1.7.2.201712120928.jar" id="org.mule.tooling.ui.extension.security-filters.3.9.0" version="1.7.2.201712120928"/>
+   <feature url="features/org.mule.tooling.ui.extension.security-oauth2-provider.3.9.0_1.7.2.201712120929.jar" id="org.mule.tooling.ui.extension.security-oauth2-provider.3.9.0" version="1.7.2.201712120929"/>
+   <feature url="features/org.mule.tooling.ui.extension.security-property-placeholder.3.9.0_1.7.2.201712120927.jar" id="org.mule.tooling.ui.extension.security-property-placeholder.3.9.0" version="1.7.2.201712120927"/>
+   <feature url="features/org.mule.tooling.ui.extension.security-signature.3.9.0_1.7.2.201712120928.jar" id="org.mule.tooling.ui.extension.security-signature.3.9.0" version="1.7.2.201712120928"/>
+   <feature url="features/org.mule.tooling.properties.feature_1.7.2.jar" id="org.mule.tooling.properties.feature" version="1.7.2"/>
+</site>
